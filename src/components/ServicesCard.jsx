@@ -7,7 +7,7 @@ const ServicesCard = ({ title, description, img }) => {
         className="w-full max-h-[200px] object-cover"
       />
       <div className="p-3">
-        <h1 className="text-lg font-medium mb-2">{title}</h1>
+        <h1 className="text-lg font-bold text-neutral-800 mb-2">{title}</h1>
         <p className="text-neutral-800">{description}</p>
       </div>
     </div>

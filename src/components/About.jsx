@@ -6,7 +6,7 @@ const About = () => {
       <img src={about_img} alt="beach" className="w-full mb-5 lg:w-[650px]" />
       <div className="flex flex-col gap-y-3">
         <h4 className="font-medium text-lg text-orange-500">About Us</h4>
-        <h1 className="text-3xl font-medium text-neutral-800">
+        <h1 className="text-3xl font-bold text-neutral-800">
           The Best And Most trusted service
         </h1>
         <p className="text-neutral-600">
