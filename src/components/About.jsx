@@ -23,12 +23,12 @@ const About = () => {
             <p className="text-neutral-800">Customers & Partners</p>
           </div>
           <div className="p-2 border border-l-4 border-l-orange-500 rounded-lg">
-            <h3 className="text-lg font-medium text-orange-500">200+</h3>
-            <p className="text-neutral-800">Customers & Partners</p>
+            <h3 className="text-lg font-medium text-orange-500">100+</h3>
+            <p className="text-neutral-800">Services & Products</p>
           </div>
           <div className="p-2 border border-l-4 border-l-orange-500 rounded-lg">
-            <h3 className="text-lg font-medium text-orange-500">200+</h3>
-            <p className="text-neutral-800">Customers & Partners</p>
+            <h3 className="text-lg font-medium text-orange-500">50+</h3>
+            <p className="text-neutral-800">Destinations & Villas</p>
           </div>
         </div>
       </div>
